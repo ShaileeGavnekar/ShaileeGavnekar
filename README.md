@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋, I'm Shailee </h1>
 <h3 align="center">Final Year student at Maulana Azad National Institute of Technology</h3>
-<img align="right" width="370" alt="coding" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"/>
+<img align="right" width="370" alt="coding" src="[https://tenor.com/view/coding-girl-gif-2332171326726785246](https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/)"/>
 <!-- https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966 -->
 
 - 👨‍💻 My Portfolio [https://portfolio-shailee-gavnekar.netlify.app/](https://portfolio-shailee-gavnekar.netlify.app/)
