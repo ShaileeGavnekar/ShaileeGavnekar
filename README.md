@@ -1,6 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Shailee </h1>
-<h3 align="center">Associate Software Development Engineer at Clearwater Analytics | NIT Bhopal'25</h3>
-<img align="right" width="370" alt="coding" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966"/>
+<h3 align="center">Software Development Engineer 1 at Clearwater Analytics | NIT Bhopal'25</h3>
+<img align="right" width="400" alt="Coding girl animation"
+     src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
 
 
 
